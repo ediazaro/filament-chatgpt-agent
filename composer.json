@@ -1,5 +1,5 @@
 {
-    "name": "likeabas/filament-chatgpt-agent",
+    "name": "ediazaro/filament-chatgpt-agent",
     "description": "Integrate with OpenAI ChatGPT",
     "version": "1.0.3",
     "keywords": [
@@ -7,17 +7,17 @@
         "laravel",
         "filament-chatgpt-agent"
     ],
-    "homepage": "https://github.com/likeabas/filament-chatgpt-agent",
+    "homepage": "https://github.com/ediazaro/filament-chatgpt-agent",
     "license": "MIT",
     "require": {
         "php": ">=8.0",
         "spatie/laravel-package-tools": "^1.9.2",
-        "illuminate/contracts": "^9.0|^10.0|^11.0",
+        "illuminate/contracts": "^9.0|^10.0|^11.0|^12.0",
         "livewire/livewire": "^3.0"
     },
     "require-dev": {
         "laravel/pint": "^1.0",
-        "nunomaduro/collision": "^7.9|^8.1",
+        "nunomaduro/collision": "^7.9|^8.1|^8.8",
         "orchestra/testbench": "^8.0",
         "pestphp/pest": "^2.0",
         "pestphp/pest-plugin-arch": "^2.0",
