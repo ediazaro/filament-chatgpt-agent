@@ -1,7 +1,6 @@
 {
     "name": "ediazaro/filament-chatgpt-agent",
     "description": "Integrate with OpenAI ChatGPT",
-    "version": "1.0.3",
     "keywords": [
         "likeabas",
         "laravel",
